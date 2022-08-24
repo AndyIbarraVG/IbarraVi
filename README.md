@@ -2,10 +2,10 @@
 
 <img  src = "https://935345.smushcdn.com/2434827/wp-content/uploads/2022/06/ExtremeProgrammingeoDesenvolvimentogildeSoftwares_Prancheta1_d2bb0588e18421cdf21219b2d7efa17a_2000-995x520.png?lossy=1&strip=1&webp=1" width="800"/>
 
-## ***Andy Giovani Ibarra Villanueva***
+### ***Andy Giovani Ibarra Villanueva***
 <br>
 
-## Numero de Control: **19100201**
+### Numero de Control: **19100201**
 <br>
 
 ## Pasatiempos:
@@ -15,11 +15,11 @@
 3. *Ver peliculas o series*
 4. *Salir a pasear con amigos*
 
-## proyecto realizado para el clima del ITNL
+### proyecto realizado para el clima del ITNL
 
 **[ClimaITNL](https://github.com/ZTStudios/ClimaITNL)**
 
-## Lenguajes y herramientas que he utilizado:
+### Lenguajes y herramientas que he utilizado:
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
