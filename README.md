@@ -3,12 +3,10 @@
 <img  src = "https://935345.smushcdn.com/2434827/wp-content/uploads/2022/06/ExtremeProgrammingeoDesenvolvimentogildeSoftwares_Prancheta1_d2bb0588e18421cdf21219b2d7efa17a_2000-995x520.png?lossy=1&strip=1&webp=1" width="800"/>
 
 ### ***Andy Giovani Ibarra Villanueva***
-<br>
 
 ### Numero de Control: **19100201**
-<br>
 
-## Pasatiempos:
+### Pasatiempos:
 
 1. *Programar*
 2. *Escuchar musica*
