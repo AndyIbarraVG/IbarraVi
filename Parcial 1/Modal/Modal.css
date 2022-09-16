@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/backgroundmonterey.jpg?alt=media&token=091d2b75-b85c-4d9b-bbfd-d8d4765751ed");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ul{
+    text-align: center;
+    list-style: none;
+    width: 300px;
+    height: 200px;
+}
+
+ul > li > ul{
+    display: none;
+}
+
+ul > li:target > ul{
+    display: block;
+    height: 100%;
+}
+
+.opcion{
+    background-color: rgba(0, 0, 0, 0.295);
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+.subOpcion{
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.555);
+    color: black;
+}
+
+.ventanaModal{
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba( 255, 255, 255, 0.2 );
+    z-index: 99999;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.ventanaModal:target{
+    opacity: 1;
+    pointer-events: auto;
+
+}
+
+.ventanaModal > div{
+    width: 400px;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px;
+    border-radius: 10px;
+    background: white;
+}
+
+.botonAbrir{
+    background-color: black;
+}
+
+.botonCerrar{
+    background-color: black;
+}
+
+.botonAbrir:hover{background:blue; color: white;}
+.botonCerrar:hover{background:blue; color: white;}
