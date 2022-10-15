@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'poppins', sans-serif;
+}
+
+.contenedor{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #6FABD2;
+}
+
+.contenedor_fondo{
+    display: grid;
+    position: absolute;
+    width: 870px;
+    height: 583px;
+    left: 216px;
+    top: 30px;
+    background-color: #BBEFFA;
+    border-radius: 50px;
+    grid-template-columns: 190px 190px 190px 190px;
+    grid-template-rows: 190px 190px 190px;
+    justify-content: center;
+    align-items: center;
+    justify-items: stretch;
+    align-items: stretch;
+    grid-auto-flow: column;
+}
+
+.caja{
+    /* width: 100px;
+    height: 100px; */
+    margin-top: 18px;
+    margin-left: 10px;
+    background-color: #386FA4;
+    border:solid 1px #000000;
+    text-align: center;
+    border-radius: 80px;
+}
+
+.caja1{
+    font-size: 20px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    border: none;
+    background-color: #00000000;
+
+}
+.caja2{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/SeerLight%20%F0%9F%92%8A%F0%9F%8C%99%20on%20Twitter.png?alt=media&token=d8b88ad0-08b1-4a9a-9ba7-e88f0843bed5");
+    background-size: cover;
+}
+.caja3{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/Wallpaper%20para%20PC.jpg?alt=media&token=df2ea9a6-5323-4af7-90a5-9864a22f54e9");
+    background-size: cover;
+}
+.caja4{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/%E2%96%B7%201001%20%2B%20Kreative%20Aesthetic%20Wallpaper%20Ideen%20f%C3%BCr%20das%20Handy.jpg?alt=media&token=6d408c1f-f81b-4128-805c-14fe9d816dd2");
+    background-size: cover;
+}
+.caja5{
+    font-size: 16px;
+    background-color: #00000000;
+    border: none;
+}
+.caja6{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/Icon %234 Cute blue wallpaper%2C Cute app%2C Iphone icon.jpg?alt=media&token=01c214e7-2078-4be5-941c-76ce062c663e");
+    background-size: cover;
+}
+.caja7{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/_wgDd99Q.jpg?alt=media&token=6cf5142c-b50c-4cc4-be21-cd3f0e257840");
+    background-size: cover;
+}
+.caja8{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/FLYING%20THE%20NEST.jpg?alt=media&token=b6a186bf-57a2-4702-ad74-36bbbe3fdf20");
+    background-size: cover;
+}
+
+.caja2toggle{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/fddcd1d1d04593134ee28ca2572c4283.jpg?alt=media&token=0a67d72f-395e-45e1-a681-bee482f19b7e");
+}
+
+.caja3toggle{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/2c777649104070b2ef52d4d97360380c.jpg?alt=media&token=a278d3bf-affa-4965-8355-00997e6280cb");
+}
+
+.caja4toggle{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/2c0cfb8520422249556e4295a8660e5a.jpg?alt=media&token=c8d70aec-b36e-4873-8c3d-d2797510dd6e");
+}
+
+.caja6toggle{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/8dcd7f6c60501fc9f5e1ebed975eaf1b.jpg?alt=media&token=b25b15eb-0b8d-4d77-a4d6-3b545dfbf0a0");
+}
+
+.caja7toggle{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/a6876eb94045f05c6c5a6fe4d24687c3.jpg?alt=media&token=863f0a1f-877a-4f1b-bf31-ba1c648d250a");
+}
+
+.caja8toggle{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/programacionweb-andyibarra.appspot.com/o/81dffd815dad19f481a22ed56757dab2.jpg?alt=media&token=7fcae3b4-dc0d-4e75-802a-ac6c520b7e3b");
+}
