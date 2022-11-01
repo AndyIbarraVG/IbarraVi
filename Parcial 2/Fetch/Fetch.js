@@ -10,3 +10,9 @@ document.getElementById("btnPeticionJQuery").addEventListener("click", () =>{
     })
     
 })
+
+document.getElementById("btnPeticionFetchAsync").addEventListener("click",async()=>{
+    let respuesta = await fetch("https://api.chucknorris.io/jokes/random")
+    let dato = await respuesta.json()
+    document.getElementById("caja").innerHTML = dato.value
+})
