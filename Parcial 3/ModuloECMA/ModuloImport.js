@@ -1,4 +1,4 @@
-import * as funciones from "./ModuloNativo.js";
+import * as funciones from "./ModuloECMA.js";
 document.getElementById("btn").addEventListener("click",()=>{
     let valor = document.getElementById("cad").value;
     let valorM = funciones.mayusculas(valor);
