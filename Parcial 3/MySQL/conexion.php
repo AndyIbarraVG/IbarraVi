@@ -1,9 +1,9 @@
 <?php
 
 $servidor = "localhost";
-$basedatos = "prueba";
-$usuario = "Andy";
-$password = "Admin.123";
+$basedatos = "datos";
+$usuario = "AndyIbarra";
+$password = "A.1iomT*vgE_";
 
 $con = mysqli_connect($servidor,$usuario,$password,$basedatos) or die("No se pudo conectar al localhost");
 $consulta = "select * from registro";
