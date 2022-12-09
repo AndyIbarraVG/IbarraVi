@@ -42,7 +42,7 @@
                             <input type="text" class="form-control mb-3" name="email" placeholder="Email">
                         </div>    
                     </div>
-                    <input type="submit" name="submit" class="btn btn-primary">
+                    <input type="submit" name="submit" class="btn btn-success">
                 </form>
         </div>
         <div class="mt-4 col-md-12">
