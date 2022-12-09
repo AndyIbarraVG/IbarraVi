@@ -8,7 +8,7 @@ $Contraseña = $_POST['Contraseña'];
 $servidor = "localhost";
 $usuario = "AndyIbarra";
 $contraseña = "A.1iomT*vgE_";
-$basedatos = "formulario"
+$basedatos = "formulario";
 
 $conexion = mysqli_connect($servidor, $usuario, $contraseña, $basedatos) or die("no se pudo conectar a la base de datos");
 $consulta = "insert into usuarios VALUES ('$nombre', '$apellidoP', '$apellidoM', '$Telefono', '$Correo', '$Contraseña')";
